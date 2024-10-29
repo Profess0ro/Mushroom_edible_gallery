@@ -12,3 +12,11 @@ what species of mushroom the image contains.<br><br>
 
 **3. Are there any similiar mushrooms to this?**<br>
 - When the system has identified the predictive species, there will also be images of similiar species that can be confused with.
+
+
+## Business case
+
+- **Users are interested to upload images on mushrooms and get a analysis of what species it can be.**<br>
+*Goals:*<br>- Image visualisation of what type of species the user has uploaded.<br>- Image visualisation of species that can be cunfused with.
+
+- **Users are interested to know if they can or can´t eat the mushroom.**<br>*Goals:*<br>- Have atleast 75% accuracy to predict a specie before telling if it´s toxic or not. 
